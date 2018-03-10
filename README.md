@@ -1,6 +1,7 @@
 # Swashbuckle-Issue-631-Repro
 
-Unknown error response when consuming GET /api/values.
+Unknown error response when consuming GET /api/values from Microsoft Edge.
+
 ![image.png](image.png)
 
 Using ASP.NET Core SDK v2.0.3 but all of these are installed in my system, included the v2.1 preview1.
