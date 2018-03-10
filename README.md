@@ -1,5 +1,7 @@
 # Swashbuckle-Issue-631-Repro
 
+Repro for this issue: [https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/631](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/631)
+
 Unknown error response when consuming GET /api/values from Microsoft Edge.
 
 ![image.png](image.png)
