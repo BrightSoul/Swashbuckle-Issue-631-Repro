@@ -16,7 +16,7 @@ Using ASP.NET Core SDK v2.0.3 but all of these are installed in my system, inclu
 * 2.0.3 [C:\Program Files\dotnet\sdk]
 * **2.1.300-preview1-008174 [C:\Program Files\dotnet\sdk]**
 
-Here's the raw response Kestrel is returning. Please note it's **chuncked**, that's why those 13 and 0 appear.
+Here's the raw response Kestrel is returning. Please note it's **chunked**, that's why those 13 and 0 appear.
 ```
 HTTP/1.1 200 OK
 Date: Sat, 10 Mar 2018 08:48:27 GMT
@@ -29,6 +29,4 @@ Transfer-Encoding: chunked
 0
 
 ```
-
-Fiddler correctly detects this and offers to decode the response.
 
